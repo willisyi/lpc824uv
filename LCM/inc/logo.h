@@ -1,0 +1,5 @@
+//#include "lpc8xx.h"
+
+//×Ö·ûÊý¾Ý
+extern const unsigned char LOGO[];
+
